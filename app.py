@@ -4,7 +4,7 @@ import pyperclip
 # Define the text you want to display
 text_to_copy = """dc23aa0f2333267cda6be7965f67814c 
 
-or can just copy the key by copying and pasting normally as we do The button has some issues. :)"""
+or just copy the key by copying and pasting normally as we do The button has some issues. :)"""
 
 # Display the text in a text area (optional for visual appeal)
 st.text_area("Text to Copy", value=text_to_copy, height=150)
